@@ -1,3 +1,1 @@
 # TP_1_GIT_CodeursMasques
-
-tu cc
