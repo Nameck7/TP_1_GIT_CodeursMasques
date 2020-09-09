@@ -7,7 +7,7 @@ public class UneClasse
 
 public UneClasse()
         {
-        mSize = 10;
+        mSize = 100;
         }
 
         }
